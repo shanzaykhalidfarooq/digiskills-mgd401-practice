@@ -15,6 +15,13 @@ This repository serves as a personal workbook to track my daily coding practice,
 
 ---
 
- 10_sqflite_notes_app.dart (Exercise 03): needs these packages:
- flutter pub add sqflite sqflite_common_ffi_web path
- dart run sqflite_common_ffi_web:setup   (for Chrome only)
+### Exercise 03: 10_sqflite_notes_app.dart
+
+This app needs extra packages. Run these commands inside your Flutter project:
+
+```bash
+flutter pub add sqflite sqflite_common_ffi_web path
+dart run sqflite_common_ffi_web:setup
+```
+
+The second command is only needed to run the app on Chrome (web).
