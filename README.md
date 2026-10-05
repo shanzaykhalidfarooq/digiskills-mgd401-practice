@@ -15,7 +15,7 @@ This repository serves as a personal workbook to track my daily coding practice,
 
 ---
 
-### Exercise 03: 10_sqflite_notes_app.dart
+###10_sqflite_notes_app.dart
 
 This app needs extra packages. Run these commands inside your Flutter project:
 
