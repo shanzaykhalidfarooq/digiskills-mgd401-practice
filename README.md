@@ -25,3 +25,9 @@ dart run sqflite_common_ffi_web:setup
 ```
 
 The second command is only needed to run the app on Chrome (web).
+
+---
+
+## 11_gemini_chat_app.dart
+Flutter AI chat assistant using the Gemini API (HTTP requests + JSON parsing).
+Setup: run `flutter pub add http` and put your own key in `kApiKey`.
